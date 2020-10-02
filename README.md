@@ -9,7 +9,7 @@
  
 
 ## Site de publication
- - pour accéder à votre site, remplacer 0z par le code de votre équipe à l'URL suivante : https://github.com/iti4mgpi/moa2020a-0z.
+ - https://iti4mgpi.github.io/moa2020a-2n/
 
 ## Pour en savoir plus ...
 Quelques informations sur la méthode associée au projet FilRouge :
